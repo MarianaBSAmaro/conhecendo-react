@@ -13,4 +13,16 @@ npm --version
 
 ```
 
+Create React App
+===
+Create React App é um ambiente confortável para aprender React, e é a melhor maneira de começar um single-page application em React.
+
+Além de configurar seu ambiente de desenvolvimento para utilizar as funcionalidades mais recentes do JavaScript, ele fornece uma experiência de desenvolvimento agradável, e otimiza o seu app para produção. Será necessário ter Node >= 14.0.0 and npm >= 5.6 na sua máquina. Para criar um novo projeto, rode:
+
+```shell script
+npx create-react-app projeto-seunome
+cd projeto-seunome
+npm start
+```
+
 
